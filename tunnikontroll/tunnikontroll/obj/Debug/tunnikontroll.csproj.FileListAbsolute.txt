@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\bin\Debug\tunnikontroll.exe.config
+C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\bin\Debug\tunnikontroll.exe
+C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\bin\Debug\tunnikontroll.pdb
+C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.exe
+C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.pdb
