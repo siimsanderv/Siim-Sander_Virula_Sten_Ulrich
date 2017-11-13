@@ -4,3 +4,9 @@ C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\bin\Debug\tunnikontrol
 C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.csprojResolveAssemblyReference.cache
 C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.exe
 C:\Users\opilane\Desktop\sten\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.pdb
+C:\Users\opilane\Desktop\Siim-Sander_Virula_Sten_Ulrich\tunnikontroll\tunnikontroll\bin\Debug\tunnikontroll.exe.config
+C:\Users\opilane\Desktop\Siim-Sander_Virula_Sten_Ulrich\tunnikontroll\tunnikontroll\bin\Debug\tunnikontroll.exe
+C:\Users\opilane\Desktop\Siim-Sander_Virula_Sten_Ulrich\tunnikontroll\tunnikontroll\bin\Debug\tunnikontroll.pdb
+C:\Users\opilane\Desktop\Siim-Sander_Virula_Sten_Ulrich\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Siim-Sander_Virula_Sten_Ulrich\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.exe
+C:\Users\opilane\Desktop\Siim-Sander_Virula_Sten_Ulrich\tunnikontroll\tunnikontroll\obj\Debug\tunnikontroll.pdb
